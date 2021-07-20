@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 15px;
+    font-family: "Lexand Deca", sans-serif;
+    color: ;
+}
+.card-group{
+    display: ;
+}
+#Sedans {
+  background-color: hsl(31, 77%, 52%);
+}
+
+#SUVs {
+  background-color: hsl(184, 100%, 22%);
+}
+
+#Luxury {
+background-color: hsl(179, 100%, 13%);
+}
+
+.container {
+    padding: 100px;
+}
+.btn {
+    background-color:hsl(0, 0%, 95%);
+    padding: 10px 20px;
+    text-align:centerl;
+    display: inline-block;
+    margin: 10px 10px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+.card-title{
+    font-family: "Big Shoulders Display", cursive;
+    color: hsl(0, 0%, 95%);
+    padding: 0 0 0 25px;
+
+}
+
+.card-body {
+    padding: 25px;
+}
+.card-text {
+    color:hsla(0, 0%, 100%, 0.75);
+    padding: 25px;
+    font-size:smaller;
+}
+.card-img {
+    width: auto;
+    padding: 50px 0 0 50px;
+
+}
+
+
+
+
+Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
+Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
+
+## Typography
+
+### Body Copy
+
+- Font size: 15px
+
+### Font
+
+
