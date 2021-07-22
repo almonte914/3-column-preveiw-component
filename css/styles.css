@@ -25,9 +25,9 @@ background-color: hsl(179, 100%, 13%);
     padding: 100px;
 }
 .btn {
-    background-color:hsl(0, 0%, 95%);
+    background-color:;
     padding: 10px 20px;
-    text-align:centerl;
+    text-align:center;
     display: inline-block;
     margin: 10px 10px;
     border-radius: 25px;
