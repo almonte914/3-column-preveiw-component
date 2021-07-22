@@ -24,17 +24,11 @@ background-color: hsl(179, 100%, 13%);
 .container {
     padding: 100px;
 }
-.btn {
-    background-color:;
-    padding: 10px 20px;
-    text-align:center;
-    display: inline-block;
-    margin: 10px 10px;
-    border-radius: 25px;
-    font-size: 15px;
+.card-group btn {
     mix-blend-mode: screen;
-
 }
+    
+
 .card-title{
     font-family: "Big Shoulders Display", cursive;
     color: hsl(0, 0%, 95%);
