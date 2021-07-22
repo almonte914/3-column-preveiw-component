@@ -32,6 +32,8 @@ background-color: hsl(179, 100%, 13%);
     margin: 10px 10px;
     border-radius: 25px;
     font-size: 15px;
+    mix-blend-mode: screen;
+
 }
 .card-title{
     font-family: "Big Shoulders Display", cursive;
@@ -53,19 +55,5 @@ background-color: hsl(179, 100%, 13%);
     padding: 50px 0 0 50px;
 
 }
-
-
-
-
-Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
-Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
-
-## Typography
-
-### Body Copy
-
-- Font size: 15px
-
-### Font
 
 
