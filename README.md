@@ -2,7 +2,7 @@
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor]
 
-![](./screenshot.png)
+![](./desktop-preview.jpg)
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
